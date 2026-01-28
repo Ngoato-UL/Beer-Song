@@ -1,0 +1,15 @@
+C:\Users\NGOATO MAHANGO\source\repos\UL\AI\Beersong\Beersong\bin\Debug\net8.0\Beersong.exe
+C:\Users\NGOATO MAHANGO\source\repos\UL\AI\Beersong\Beersong\bin\Debug\net8.0\Beersong.deps.json
+C:\Users\NGOATO MAHANGO\source\repos\UL\AI\Beersong\Beersong\bin\Debug\net8.0\Beersong.runtimeconfig.json
+C:\Users\NGOATO MAHANGO\source\repos\UL\AI\Beersong\Beersong\bin\Debug\net8.0\Beersong.dll
+C:\Users\NGOATO MAHANGO\source\repos\UL\AI\Beersong\Beersong\bin\Debug\net8.0\Beersong.pdb
+C:\Users\NGOATO MAHANGO\source\repos\UL\AI\Beersong\Beersong\obj\Debug\net8.0\Beersong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NGOATO MAHANGO\source\repos\UL\AI\Beersong\Beersong\obj\Debug\net8.0\Beersong.AssemblyInfoInputs.cache
+C:\Users\NGOATO MAHANGO\source\repos\UL\AI\Beersong\Beersong\obj\Debug\net8.0\Beersong.AssemblyInfo.cs
+C:\Users\NGOATO MAHANGO\source\repos\UL\AI\Beersong\Beersong\obj\Debug\net8.0\Beersong.csproj.CoreCompileInputs.cache
+C:\Users\NGOATO MAHANGO\source\repos\UL\AI\Beersong\Beersong\obj\Debug\net8.0\Beersong.sourcelink.json
+C:\Users\NGOATO MAHANGO\source\repos\UL\AI\Beersong\Beersong\obj\Debug\net8.0\Beersong.dll
+C:\Users\NGOATO MAHANGO\source\repos\UL\AI\Beersong\Beersong\obj\Debug\net8.0\refint\Beersong.dll
+C:\Users\NGOATO MAHANGO\source\repos\UL\AI\Beersong\Beersong\obj\Debug\net8.0\Beersong.pdb
+C:\Users\NGOATO MAHANGO\source\repos\UL\AI\Beersong\Beersong\obj\Debug\net8.0\Beersong.genruntimeconfig.cache
+C:\Users\NGOATO MAHANGO\source\repos\UL\AI\Beersong\Beersong\obj\Debug\net8.0\ref\Beersong.dll
